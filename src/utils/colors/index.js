@@ -15,12 +15,12 @@ export const colors = {
     },
     button: {
         primary: {
-            background: colors.primary,
-            text: colors.white
+            background: mainColors.green1,
+            text: 'white'
         },
         secondary: {
-            background: colors.white,
-            text: colors.black
+            background: 'white',
+            text: mainColors.dark1
         }
     }
 }
