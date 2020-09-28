@@ -4,7 +4,7 @@ const mainColors = {
     grey1: '#7D8797'
 }
 
-export const color = {
+export const colors = {
     primary: mainColors.green1,
     secondary: mainColors.dark1,
     white: 'white',
